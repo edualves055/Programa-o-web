@@ -1,0 +1,42 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(21, 156, 177, 0.575);
+}
+
+.inicio{
+    color: #220785;
+    font-size: medium;
+
+}
+    #navbar{
+        background-color:rgb(116, 121, 124)
+    }
+    #home,#sobre,#imagem,#matérias,#contato{
+        padding-top: 50px;
+    }
+
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+/*div{
+    text-align: center;
+}|*/
+img{
+    width: 10vw
+}
+
+a{
+    text-decoration: none;
+}
+
+.container-lista{
+    display: flex;
+    justify-content: center;
+}
+
